@@ -1,4 +1,11 @@
-package productStore.product.milkproduct;
+package store.productStore.milkproduct;
 
-public abstract class  MilkProduct{
+import store.Product;
+
+import java.time.LocalDate;
+
+public abstract class  MilkProduct extends Product {
+    public MilkProduct(int id, String name, String companyName, LocalDate localdate) {
+        super(id, name, companyName, localdate);
+    }
 }

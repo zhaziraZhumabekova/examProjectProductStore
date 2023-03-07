@@ -1,17 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cef162a-d8b7-4105-804d-f004cdc78140" name="Changes" comment="" />
+    <list default="true" id="3cef162a-d8b7-4105-804d-f004cdc78140" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/ServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/ServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/productStore/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/MyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/productStore/flourProduct/Bread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/flourProduct/Bread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/productStore/flourProduct/Flour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/flourProduct/Flour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/productStore/flourProduct/FlourProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/flourProduct/FlourProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/productStore/flourProduct/Pasta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/flourProduct/Pasta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/productStore/manager/ManagerToDoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/manager/ManagerToDoList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/productStore/meatProduct/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/meatProduct/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/productStore/meatProduct/LambMeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/meatProduct/LambMeat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/productStore/meatProduct/MeatProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/meatProduct/MeatProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/productStore/meatProduct/Sausage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/meatProduct/Sausage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/productStore/milkproduct/Kefir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/milkproduct/Kefir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/productStore/milkproduct/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/milkproduct/Milk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/productStore/milkproduct/MilkProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/milkproduct/MilkProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/productStore/milkproduct/Yogurt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/milkproduct/Yogurt.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2MbzDSufDRgYEr1T2GUomxyVErr" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,7 +52,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ShowUsagesActions.previewPropertyKey": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
