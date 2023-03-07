@@ -1,26 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cef162a-d8b7-4105-804d-f004cdc78140" name="Changes" comment="">
+    <list default="true" id="3cef162a-d8b7-4105-804d-f004cdc78140" name="Changes" comment="storeProject">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/store/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/Service.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/store/ServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/ServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/productStore/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/MyException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/productStore/flourProduct/Bread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/flourProduct/Bread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/productStore/flourProduct/Flour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/flourProduct/Flour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/productStore/flourProduct/FlourProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/flourProduct/FlourProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/productStore/flourProduct/Pasta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/flourProduct/Pasta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/store/productStore/manager/ManagerToDoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/manager/ManagerToDoList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/productStore/meatProduct/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/meatProduct/Fish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/productStore/meatProduct/LambMeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/meatProduct/LambMeat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/productStore/meatProduct/MeatProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/meatProduct/MeatProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/productStore/meatProduct/Sausage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/meatProduct/Sausage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/productStore/milkproduct/Kefir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/milkproduct/Kefir.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/productStore/milkproduct/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/milkproduct/Milk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/productStore/milkproduct/MilkProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/milkproduct/MilkProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/productStore/milkproduct/Yogurt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/productStore/milkproduct/Yogurt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +51,18 @@
       <option name="presentableId" value="Default" />
       <updated>1678050955327</updated>
     </task>
+    <task id="LOCAL-00001" summary="storeProject">
+      <created>1678202642370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678202642370</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="storeProject" />
+    <option name="LAST_COMMIT_MESSAGE" value="storeProject" />
   </component>
 </project>

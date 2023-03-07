@@ -15,25 +15,27 @@ public class ServiceImpl implements Service {
 
     @Override
     public void addNewProduct(List<Product> products) {
+        System.out.println("\u001B[34m" + " OUR PRODUCTS! " + "\u001B[0m");
         products.stream().filter(a -> a.getCompanyName().equals("Nur")
                 || a.getCompanyName().equals("Toyboss")
                 || a.getCompanyName().equals("Milka")).filter(q -> q.getLocaldate().minusMonths(1)
                 .isAfter(LocalDate.now())).forEach(System.out::println);
         list.addAll(products);
+        System.out.println("\u001B[35m" + "******************************" + "\u001B[0m");
     }
-
 
     @Override
     public void sortByDiscount(List<Product> products1) {
         List<Product> list3 = products1.stream().filter(a -> a.getLocaldate().isBefore(LocalDate.now())).toList();
-        System.out.println(" EXPIRED PRODUCTS ");
+        System.out.println("\u001B[31m" + " EXPIRED PRODUCTS! ");
         list3.forEach(System.out::println);
         products1.removeIf(f -> f.getLocaldate().isBefore(LocalDate.now()));
         List<Product> productList = products1.stream().filter(s -> s.getCompanyName().equals("Toyboss")
                 || s.getCompanyName().equals("Nur")
                 || s.getCompanyName().equals("Milka")).filter(a -> !a.getLocaldate().isAfter(LocalDate.now()
                 .plusDays(7))).toList();
-        System.out.println(" Discount!!! ");
+        System.out.println("\u001B[35m" + "******************************" + "\u001B[0m");
+        System.out.println("\u001B[0m" + "\u001B[32m" + " DISCOUNT PRODUCTS! ");
         productList.forEach(System.out::println);
     }
 

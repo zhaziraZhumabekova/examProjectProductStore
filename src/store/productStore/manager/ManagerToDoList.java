@@ -1,7 +1,7 @@
 package store.productStore.manager;
 
 public class ManagerToDoList {
-    private final String login = "Zhazira";
+    private final String login = "zhazira";
     private final String password = "0909";
 
     public ManagerToDoList() {
